@@ -1,0 +1,2 @@
+rootProject.name = "MuseFM"
+include ':app'
